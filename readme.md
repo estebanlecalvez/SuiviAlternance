@@ -4,7 +4,10 @@
 
 * Vendredi 05/01
 
-```Installation du poste```
+```Installation du poste  IPOREUJGILOERUNVOIERJVK°EROJV
+ERVOERHJVIOEJRV
+EROJVOEIRJVERVPER
+```
 
 * Lundi 08/01 matin : 
 
