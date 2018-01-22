@@ -12,6 +12,8 @@
 
 * Reste de la semaine du 08/01 au 12/01 :
 
+![](src/images/SuperAdministrators.png)
+
 ```Prise en main de selenium avec des TP pour tester les pages existantes du logiciel Kurmi``` 
 
 ![](src/images/SuperAdministrators.png)
