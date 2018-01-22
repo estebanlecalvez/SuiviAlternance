@@ -1,6 +1,6 @@
 # Suivi de l'alternance
 
-![](src/images/Connexion.png)
+![alt tag](src/images/Connexion.png)
 
 * Vendredi 05/01
 
@@ -12,8 +12,6 @@
 
 * Reste de la semaine du 08/01 au 12/01 :
 
-![](src/images/SuperAdministrators.png)
+![alt tag](src/images/SuperAdministrators.png)
 
 ```Prise en main de selenium avec des TP pour tester les pages existantes du logiciel Kurmi``` 
-
-![](src/images/SuperAdministrators.png)
